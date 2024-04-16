@@ -1,0 +1,158 @@
+.container-flex{
+    width: 500px;
+    height: 450px;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.flex-container{
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr) ;
+    grid-template-rows: repeat(4, 1fr);
+    height: 300;
+    gap: 4px;
+    
+}
+
+.grid-container > h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.grid1{
+    display: flex;
+    background-color: azure;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid2{
+    display: flex;
+    background-color: rgb(107, 240, 240);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid3{
+    display: flex;
+    background-color: rgb(240, 96, 204);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid4{
+    display: flex;
+    background-color: rgb(207, 247, 29);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid5{
+    display: flex;
+    background-color: rgb(107, 240, 240);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid6{
+    display: flex;
+    background-color: rgb(240, 96, 204);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid7{
+    display: flex;
+    background-color: rgb(207, 247, 29);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid8{
+    display: flex;
+    background-color: azure;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid9{
+    display: flex;
+    background-color: azure;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid10{
+    display: flex;
+    background-color: rgb(107, 240, 240);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid11 {
+    display: flex;
+    background-color: rgb(240, 96, 204);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid12 {
+    display: flex;
+    background-color: rgb(207, 247, 29);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid13 {
+    display: flex;
+    background-color: rgb(107, 240, 240);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid14 {
+    display: flex;
+    background-color: rgb(240, 96, 204);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid15 {
+    display: flex;
+    background-color: rgb(207, 247, 29);
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid16{
+    display: flex;
+    background-color: azure;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
